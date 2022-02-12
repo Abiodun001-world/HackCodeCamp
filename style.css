@@ -104,14 +104,14 @@ googleapis
     text-align: center;
   }
   .hero-text h1 {
-    font-size: 26px;
+    font-size: 10px;
   }
   .social {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 0px;
   }
   .hero-text a {
-    padding: 10px 70px;
+    padding: 10px 0px;
 
   }
 }
