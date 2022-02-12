@@ -1,6 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=poppins:wght@400;600&display=swap');
+@import url('https://fonts..com/css2?family=poppins:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
-
+googleapis
 * {
   padding: 0px;
   margin: 0px;
@@ -96,6 +96,23 @@
 @media only screen and (max-width:1440px) {
   .hero-text img {
     width:100%;
+  }
+}
+@media only screen and (max-width:768px) {
+  .main {
+    flex-direction:column;
+    text-align: center;
+  }
+  .hero-text h1 {
+    font-size: 26px;
+  }
+  .social {
+    text-align: center;
+    margin-top: 50px;
+  }
+  .hero-text a {
+    padding: 10px 70px;
+
   }
 }
 
